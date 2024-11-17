@@ -1,0 +1,15 @@
+.DS_Store
+
+__pycache__/
+
+**/venv/
+**/env/
+**/.venv/
+*.db
+*.sqlite
+cours/
+test/
+.pytest_cache/
+
+train_logs
+train_results
